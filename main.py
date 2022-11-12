@@ -17,7 +17,7 @@ async def on_connect():
 
 
 # --- Clash Royale Commands --- #
-my_key = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjViYTQwMzAxLWM4ZTAtNDk1Mi04OGU3LTVlM2Q1NjY3MmUxMiIsImlhdCI6MTY2ODE4MDczNSwic3ViIjoiZGV2ZWxvcGVyLzVjNjY2ZWZkLTRjNTQtOTk4Ni0wNWIyLTFiNTk0MThiNzc1ZCIsInNjb3BlcyI6WyJyb3lhbGUiXSwibGltaXRzIjpbeyJ0aWVyIjoiZGV2ZWxvcGVyL3NpbHZlciIsInR5cGUiOiJ0aHJvdHRsaW5nIn0seyJjaWRycyI6WyI0NS43OS4yMTguNzkiLCIyMTMuMTAyLjg4Ljk3Il0sInR5cGUiOiJjbGllbnQifV19.feYKVPzobUTECkIp3-B_GPvC5zNYDWQeXrxiUS0t2d9qSmduj_5K4pBKkk4Mnrj-zAkI1UeRB1PQ1l2odPMa1g"
+my_key =" :) "
 
 headers = {
     "Authorization": "Bearer %s" % my_key
@@ -174,4 +174,4 @@ async def accounts(ctx):
 async def serveronline(ctx):
     await ctx.send("Yes...")
 
-bot.run("MTAzMzcyNDI1OTAwNjE3MzIyNA.G2X15P.YYXwUnA43BTz6djC-B4rEHegfPPlTsjCEGKgj0")
+bot.run(" :) ")
